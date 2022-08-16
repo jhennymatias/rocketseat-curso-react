@@ -1,0 +1,7 @@
+Contexto:
+- Prop drilling: passar a mesma propriedade vários niveis abaixo 
+- Compartilhamento de estado vários componentes da aplicação
+- Quando a informação não parece estar no local correto
+- useContext
+
+performace:
