@@ -5,3 +5,8 @@ Contexto:
 - useContext
 
 performace:
+
+
+SSR(server-side-rendering): melhora a indexação com o google
+
+scoped css aplicado apenas em um componente
