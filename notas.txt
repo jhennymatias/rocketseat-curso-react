@@ -10,3 +10,9 @@ performace:
 SSR(server-side-rendering): melhora a indexação com o google
 
 scoped css aplicado apenas em um componente
+
+
+stripe: api utilizado para pagamentos
+
+ssg( static site generation):
+cria um arquivo html estático
